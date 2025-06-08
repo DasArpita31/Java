@@ -4,7 +4,6 @@ import java.util.Arrays;
 
 public class Array7 {
     public static void main(String[] args) {
-        
         String[] name = {"yellow","pink","green"};
         Arrays.sort(name);
 
