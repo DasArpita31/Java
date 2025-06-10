@@ -21,14 +21,13 @@ System.out.println("Number 1 = "+number1);
 System.out.println("Number 2 _ "+number2);
 
         number3.addAll(number1);
-System.out.println("Number 1 = "+number3);
+System.out.println("Number 3 = "+number3);
 
        boolean result = number1.equals(number2);
         System.out.println("Number 1 = Number 2 : "+result);
     
         result = number1.equals(number3);
         System.out.println("Number 1 = Number 3 : "+result);
-    
     
     }
 }
