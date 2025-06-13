@@ -10,6 +10,7 @@ public class Teacher1 {
         Teacher1.displayInformation();
     
         System.out.println();
+        System.out.println();
 
         Teacher Teacher2 = new Teacher();
         Teacher2.name = "Arpon Das";
